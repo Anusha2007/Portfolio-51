@@ -1,0 +1,35 @@
+h1{
+    color:brown;
+}
+/**{
+    border-style: dashed;
+    border-top-color: (#808080);
+}*/
+.header{
+    background-color:chartreuse;
+    display:flex;
+    justify-content: space-between;
+}
+.games{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border-style: solid;
+    border-bottom-color: #FF0000;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+}
+p,h2{
+    text-align: center;
+    color: white;
+    font-style:italic;
+    font-size: x-large;
+    font-weight: bold;
+    text-decoration-color: black;
+    text-decoration-line: underline ;
+}
+body{
+    background-color: #808080;
+}
